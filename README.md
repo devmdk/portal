@@ -6,7 +6,8 @@ Interesting news, books and such archived.
 - Jedh.net meduim    
 Og-barruu fi iskriptii
 - Jawar.info pinterest   
-News, events, archive, gallery of Jawar and relating
+News, events, archive, gallery of Jawar and relating   
+Cards: ```shadow: 0 2px 0 0 rgb(), 0 2px 2px 0 rgb();```
 ## What is
 - DNS + tampering   
 - AutoHotKey
