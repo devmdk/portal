@@ -14,4 +14,7 @@ Cards: ```shadow: 0 2px 0 0 rgb(), 0 2px 2px 0 rgb();```
 - DNS + tampering   
 - AutoHotKey
 - Spear phishing
-- RCE flaw
+- RCE flaw   
+## Youtube view   
+**Abstract**   
+Youtube view count uses sophisticated algorithm.
