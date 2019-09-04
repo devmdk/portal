@@ -16,5 +16,9 @@ Cards: ```shadow: 0 2px 0 0 rgb(), 0 2px 2px 0 rgb();```
 - Spear phishing
 - RCE flaw   
 ## Youtube view   
-**Abstract**   
-Youtube view count uses sophisticated algorithm.
+**Abstract**    
+Youtube view count uses sophisticated algorithm. Neverthless, many missinformation did not indicate this.
+Here are questions to brief on. 
+- How many view can be achieved by a PC?
+- Can virtual machine, different browser or accounts, proxy, vpn or software/bot help?
+- How many view can be achieved by one router?
