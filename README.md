@@ -1,4 +1,4 @@
-# Portal | [Home](/)
+# [Home](/)
 ![Irreecha](https://i.ibb.co/yq5B38P/Irreecha-2012.jpg)   
 
 Interesting news, books and such archived.
