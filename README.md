@@ -1,4 +1,6 @@
-# portal
+# Portal | [Home](/)
+![Irreecha](https://i.ibb.co/yq5B38P/Irreecha-2012.jpg)   
+
 Interesting news, books and such archived.
 - https://decoded.avast.io/janvojtesek/putting-an-end-to-retadup-a-malicious-worm-that-infected-hundreds-of-thousands/
 ## Ideas
