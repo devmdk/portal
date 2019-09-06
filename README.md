@@ -17,6 +17,9 @@ Cards: ```shadow: 0 2px 0 0 rgb(), 0 2px 2px 0 rgb();```
 - AutoHotKey
 - Spear phishing
 - RCE flaw   
+- Drive-by attack
+- Exploit-kit   
+ Includes scanning vuln, downloading and executing exploit.
 ## Youtube view   
 **Abstract**    
 Youtube view count uses sophisticated algorithm. Neverthless, many missinformation did not indicate this.
